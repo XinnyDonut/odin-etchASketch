@@ -1,0 +1,10 @@
+.container{
+    display:flex;
+}
+.square{
+    background-color:lightblue;
+    border-style:dotted;
+    border-color: black;
+    height:30px;
+    width:30px;
+}
