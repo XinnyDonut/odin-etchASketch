@@ -1,10 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
 .container{
     display:flex;
+    
 }
-.square{
+/* .square{
     background-color:lightblue;
     border-style:dotted;
     border-color: black;
     height:30px;
     width:30px;
-}
+} */
